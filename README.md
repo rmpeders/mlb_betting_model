@@ -9,7 +9,7 @@ This project aims to build a stat based model that will predict game scores in o
 ---
 ### Legality
 Sports betting has been around since the existence of sports. Its legality, however, has been a topic of contention since the Professional and Amateur Sports Protection Act was passed in 1992. This law made sports betting illegal in all states except Nevada, who was grandfathered in. However, in 2018, the Supreme Court ruled in favor of nullifiying the law that prevented states from legalizing sports gambling. Since then, numerous states have either legalized it, or are in the process of doing so. 30 states currently have some form of legalized gambling, 6 have legalized it but not yet launched it, and 2 more have an active ballot initiative. 
-![](./images/legal_states.png)
+![](./images/legal_states.PNG)
 [(Source)](https://www.americangaming.org/research/state-gaming-map/) 
 
 ### Betting Types
