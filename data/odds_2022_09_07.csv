@@ -1,0 +1,683 @@
+name,price,point,home_team,away_team,bookmakers.title
+New York Mets,-278,,Pittsburgh Pirates,New York Mets,FOX Bet
+Pittsburgh Pirates,200,,Pittsburgh Pirates,New York Mets,FOX Bet
+New York Mets,-270,,Pittsburgh Pirates,New York Mets,FanDuel
+Pittsburgh Pirates,220,,Pittsburgh Pirates,New York Mets,FanDuel
+New York Mets,-255,,Pittsburgh Pirates,New York Mets,DraftKings
+Pittsburgh Pirates,215,,Pittsburgh Pirates,New York Mets,DraftKings
+New York Mets,-233,,Pittsburgh Pirates,New York Mets,Betfair
+Pittsburgh Pirates,225,,Pittsburgh Pirates,New York Mets,Betfair
+New York Mets,-227,,Pittsburgh Pirates,New York Mets,Betfair
+Pittsburgh Pirates,235,,Pittsburgh Pirates,New York Mets,Betfair
+New York Mets,-245,,Pittsburgh Pirates,New York Mets,LowVig.ag
+Pittsburgh Pirates,220,,Pittsburgh Pirates,New York Mets,LowVig.ag
+New York Mets,-260,,Pittsburgh Pirates,New York Mets,William Hill (US)
+Pittsburgh Pirates,210,,Pittsburgh Pirates,New York Mets,William Hill (US)
+New York Mets,-245,,Pittsburgh Pirates,New York Mets,BetUS
+Pittsburgh Pirates,205,,Pittsburgh Pirates,New York Mets,BetUS
+New York Mets,-250,,Pittsburgh Pirates,New York Mets,BetOnline.ag
+Pittsburgh Pirates,220,,Pittsburgh Pirates,New York Mets,BetOnline.ag
+New York Mets,-250,,Pittsburgh Pirates,New York Mets,BetMGM
+Pittsburgh Pirates,200,,Pittsburgh Pirates,New York Mets,BetMGM
+New York Mets,-240,,Pittsburgh Pirates,New York Mets,SuperBook
+Pittsburgh Pirates,210,,Pittsburgh Pirates,New York Mets,SuperBook
+New York Mets,-265,,Pittsburgh Pirates,New York Mets,SugarHouse
+Pittsburgh Pirates,220,,Pittsburgh Pirates,New York Mets,SugarHouse
+New York Mets,-275,,Pittsburgh Pirates,New York Mets,Barstool Sportsbook
+Pittsburgh Pirates,220,,Pittsburgh Pirates,New York Mets,Barstool Sportsbook
+New York Mets,-278,,Pittsburgh Pirates,New York Mets,TwinSpires
+Pittsburgh Pirates,220,,Pittsburgh Pirates,New York Mets,TwinSpires
+New York Mets,-265,,Pittsburgh Pirates,New York Mets,BetRivers
+Pittsburgh Pirates,220,,Pittsburgh Pirates,New York Mets,BetRivers
+New York Mets,-278,,Pittsburgh Pirates,New York Mets,Unibet
+Pittsburgh Pirates,220,,Pittsburgh Pirates,New York Mets,Unibet
+New York Mets,-250,,Pittsburgh Pirates,New York Mets,Bovada
+Pittsburgh Pirates,205,,Pittsburgh Pirates,New York Mets,Bovada
+New York Mets,-245,,Pittsburgh Pirates,New York Mets,GTbets
+Pittsburgh Pirates,210,,Pittsburgh Pirates,New York Mets,GTbets
+Minnesota Twins,128,,New York Yankees,Minnesota Twins,FanDuel
+New York Yankees,-152,,New York Yankees,Minnesota Twins,FanDuel
+Minnesota Twins,125,,New York Yankees,Minnesota Twins,DraftKings
+New York Yankees,-145,,New York Yankees,Minnesota Twins,DraftKings
+Minnesota Twins,120,,New York Yankees,Minnesota Twins,Circa Sports
+New York Yankees,-141,,New York Yankees,Minnesota Twins,Circa Sports
+Minnesota Twins,130,,New York Yankees,Minnesota Twins,William Hill (US)
+New York Yankees,-155,,New York Yankees,Minnesota Twins,William Hill (US)
+Minnesota Twins,134,,New York Yankees,Minnesota Twins,SuperBook
+New York Yankees,-144,,New York Yankees,Minnesota Twins,SuperBook
+Minnesota Twins,138,,New York Yankees,Minnesota Twins,Betfair
+New York Yankees,-143,,New York Yankees,Minnesota Twins,Betfair
+Minnesota Twins,142,,New York Yankees,Minnesota Twins,Betfair
+New York Yankees,-137,,New York Yankees,Minnesota Twins,Betfair
+Minnesota Twins,135,,New York Yankees,Minnesota Twins,BetRivers
+New York Yankees,-155,,New York Yankees,Minnesota Twins,BetRivers
+Minnesota Twins,135,,New York Yankees,Minnesota Twins,SugarHouse
+New York Yankees,-155,,New York Yankees,Minnesota Twins,SugarHouse
+Minnesota Twins,133,,New York Yankees,Minnesota Twins,Barstool Sportsbook
+New York Yankees,-157,,New York Yankees,Minnesota Twins,Barstool Sportsbook
+Minnesota Twins,132,,New York Yankees,Minnesota Twins,TwinSpires
+New York Yankees,-157,,New York Yankees,Minnesota Twins,TwinSpires
+Minnesota Twins,132,,New York Yankees,Minnesota Twins,Unibet
+New York Yankees,-156,,New York Yankees,Minnesota Twins,Unibet
+Minnesota Twins,133,,New York Yankees,Minnesota Twins,LowVig.ag
+New York Yankees,-144,,New York Yankees,Minnesota Twins,LowVig.ag
+Minnesota Twins,133,,New York Yankees,Minnesota Twins,BetOnline.ag
+New York Yankees,-145,,New York Yankees,Minnesota Twins,BetOnline.ag
+Minnesota Twins,132,,New York Yankees,Minnesota Twins,GTbets
+New York Yankees,-144,,New York Yankees,Minnesota Twins,GTbets
+Minnesota Twins,126,,New York Yankees,Minnesota Twins,Bovada
+New York Yankees,-150,,New York Yankees,Minnesota Twins,Bovada
+Minnesota Twins,130,,New York Yankees,Minnesota Twins,BetUS
+New York Yankees,-145,,New York Yankees,Minnesota Twins,BetUS
+Minnesota Twins,125,,New York Yankees,Minnesota Twins,BetMGM
+New York Yankees,-150,,New York Yankees,Minnesota Twins,BetMGM
+Colorado Rockies,123,,Colorado Rockies,Milwaukee Brewers,LowVig.ag
+Milwaukee Brewers,-133,,Colorado Rockies,Milwaukee Brewers,LowVig.ag
+Colorado Rockies,115,,Colorado Rockies,Milwaukee Brewers,DraftKings
+Milwaukee Brewers,-135,,Colorado Rockies,Milwaukee Brewers,DraftKings
+Colorado Rockies,115,,Colorado Rockies,Milwaukee Brewers,William Hill (US)
+Milwaukee Brewers,-135,,Colorado Rockies,Milwaukee Brewers,William Hill (US)
+Colorado Rockies,120,,Colorado Rockies,Milwaukee Brewers,FanDuel
+Milwaukee Brewers,-142,,Colorado Rockies,Milwaukee Brewers,FanDuel
+Colorado Rockies,123,,Colorado Rockies,Milwaukee Brewers,BetOnline.ag
+Milwaukee Brewers,-133,,Colorado Rockies,Milwaukee Brewers,BetOnline.ag
+Colorado Rockies,123,,Colorado Rockies,Milwaukee Brewers,BetUS
+Milwaukee Brewers,-133,,Colorado Rockies,Milwaukee Brewers,BetUS
+Colorado Rockies,120,,Colorado Rockies,Milwaukee Brewers,FOX Bet
+Milwaukee Brewers,-143,,Colorado Rockies,Milwaukee Brewers,FOX Bet
+Colorado Rockies,120,,Colorado Rockies,Milwaukee Brewers,WynnBET
+Milwaukee Brewers,-130,,Colorado Rockies,Milwaukee Brewers,WynnBET
+Colorado Rockies,123,,Colorado Rockies,Milwaukee Brewers,GTbets
+Milwaukee Brewers,-133,,Colorado Rockies,Milwaukee Brewers,GTbets
+Colorado Rockies,115,,Colorado Rockies,Milwaukee Brewers,Circa Sports
+Milwaukee Brewers,-136,,Colorado Rockies,Milwaukee Brewers,Circa Sports
+Colorado Rockies,115,,Colorado Rockies,Milwaukee Brewers,BetMGM
+Milwaukee Brewers,-135,,Colorado Rockies,Milwaukee Brewers,BetMGM
+Colorado Rockies,120,,Colorado Rockies,Milwaukee Brewers,SuperBook
+Milwaukee Brewers,-130,,Colorado Rockies,Milwaukee Brewers,SuperBook
+Colorado Rockies,123,,Colorado Rockies,Milwaukee Brewers,Unibet
+Milwaukee Brewers,-147,,Colorado Rockies,Milwaukee Brewers,Unibet
+Colorado Rockies,125,,Colorado Rockies,Milwaukee Brewers,BetRivers
+Milwaukee Brewers,-141,,Colorado Rockies,Milwaukee Brewers,BetRivers
+Colorado Rockies,125,,Colorado Rockies,Milwaukee Brewers,SugarHouse
+Milwaukee Brewers,-141,,Colorado Rockies,Milwaukee Brewers,SugarHouse
+Colorado Rockies,123,,Colorado Rockies,Milwaukee Brewers,TwinSpires
+Milwaukee Brewers,-148,,Colorado Rockies,Milwaukee Brewers,TwinSpires
+Colorado Rockies,123,,Colorado Rockies,Milwaukee Brewers,Barstool Sportsbook
+Milwaukee Brewers,-143,,Colorado Rockies,Milwaukee Brewers,Barstool Sportsbook
+Colorado Rockies,120,,Colorado Rockies,Milwaukee Brewers,Intertops
+Milwaukee Brewers,-130,,Colorado Rockies,Milwaukee Brewers,Intertops
+Colorado Rockies,126,,Colorado Rockies,Milwaukee Brewers,Betfair
+Milwaukee Brewers,-130,,Colorado Rockies,Milwaukee Brewers,Betfair
+Colorado Rockies,130,,Colorado Rockies,Milwaukee Brewers,Betfair
+Milwaukee Brewers,-127,,Colorado Rockies,Milwaukee Brewers,Betfair
+Colorado Rockies,115,,Colorado Rockies,Milwaukee Brewers,Bovada
+Milwaukee Brewers,-138,,Colorado Rockies,Milwaukee Brewers,Bovada
+Atlanta Braves,-278,,Oakland Athletics,Atlanta Braves,LowVig.ag
+Oakland Athletics,247,,Oakland Athletics,Atlanta Braves,LowVig.ag
+Atlanta Braves,-280,,Oakland Athletics,Atlanta Braves,DraftKings
+Oakland Athletics,235,,Oakland Athletics,Atlanta Braves,DraftKings
+Atlanta Braves,-292,,Oakland Athletics,Atlanta Braves,William Hill (US)
+Oakland Athletics,235,,Oakland Athletics,Atlanta Braves,William Hill (US)
+Atlanta Braves,-278,,Oakland Athletics,Atlanta Braves,BetOnline.ag
+Oakland Athletics,247,,Oakland Athletics,Atlanta Braves,BetOnline.ag
+Atlanta Braves,-300,,Oakland Athletics,Atlanta Braves,FanDuel
+Oakland Athletics,245,,Oakland Athletics,Atlanta Braves,FanDuel
+Atlanta Braves,-275,,Oakland Athletics,Atlanta Braves,BetUS
+Oakland Athletics,225,,Oakland Athletics,Atlanta Braves,BetUS
+Atlanta Braves,-286,,Oakland Athletics,Atlanta Braves,FOX Bet
+Oakland Athletics,225,,Oakland Athletics,Atlanta Braves,FOX Bet
+Atlanta Braves,-280,,Oakland Athletics,Atlanta Braves,Bovada
+Oakland Athletics,225,,Oakland Athletics,Atlanta Braves,Bovada
+Atlanta Braves,-278,,Oakland Athletics,Atlanta Braves,WynnBET
+Oakland Athletics,245,,Oakland Athletics,Atlanta Braves,WynnBET
+Atlanta Braves,-278,,Oakland Athletics,Atlanta Braves,GTbets
+Oakland Athletics,238,,Oakland Athletics,Atlanta Braves,GTbets
+Atlanta Braves,-286,,Oakland Athletics,Atlanta Braves,Circa Sports
+Oakland Athletics,234,,Oakland Athletics,Atlanta Braves,Circa Sports
+Atlanta Braves,-300,,Oakland Athletics,Atlanta Braves,BetMGM
+Oakland Athletics,240,,Oakland Athletics,Atlanta Braves,BetMGM
+Atlanta Braves,-290,,Oakland Athletics,Atlanta Braves,SuperBook
+Oakland Athletics,250,,Oakland Athletics,Atlanta Braves,SuperBook
+Atlanta Braves,-312,,Oakland Athletics,Atlanta Braves,Unibet
+Oakland Athletics,245,,Oakland Athletics,Atlanta Braves,Unibet
+Atlanta Braves,-286,,Oakland Athletics,Atlanta Braves,BetRivers
+Oakland Athletics,245,,Oakland Athletics,Atlanta Braves,BetRivers
+Atlanta Braves,-286,,Oakland Athletics,Atlanta Braves,SugarHouse
+Oakland Athletics,245,,Oakland Athletics,Atlanta Braves,SugarHouse
+Atlanta Braves,-315,,Oakland Athletics,Atlanta Braves,TwinSpires
+Oakland Athletics,245,,Oakland Athletics,Atlanta Braves,TwinSpires
+Atlanta Braves,-305,,Oakland Athletics,Atlanta Braves,Barstool Sportsbook
+Oakland Athletics,245,,Oakland Athletics,Atlanta Braves,Barstool Sportsbook
+Atlanta Braves,-270,,Oakland Athletics,Atlanta Braves,Intertops
+Oakland Athletics,230,,Oakland Athletics,Atlanta Braves,Intertops
+Atlanta Braves,-270,,Oakland Athletics,Atlanta Braves,Betfair
+Oakland Athletics,255,,Oakland Athletics,Atlanta Braves,Betfair
+Atlanta Braves,-250,,Oakland Athletics,Atlanta Braves,Betfair
+Oakland Athletics,265,,Oakland Athletics,Atlanta Braves,Betfair
+Detroit Tigers,182,,Los Angeles Angels,Detroit Tigers,LowVig.ag
+Los Angeles Angels,-198,,Los Angeles Angels,Detroit Tigers,LowVig.ag
+Detroit Tigers,180,,Los Angeles Angels,Detroit Tigers,DraftKings
+Los Angeles Angels,-210,,Los Angeles Angels,Detroit Tigers,DraftKings
+Detroit Tigers,175,,Los Angeles Angels,Detroit Tigers,William Hill (US)
+Los Angeles Angels,-210,,Los Angeles Angels,Detroit Tigers,William Hill (US)
+Detroit Tigers,180,,Los Angeles Angels,Detroit Tigers,FanDuel
+Los Angeles Angels,-215,,Los Angeles Angels,Detroit Tigers,FanDuel
+Detroit Tigers,182,,Los Angeles Angels,Detroit Tigers,BetOnline.ag
+Los Angeles Angels,-200,,Los Angeles Angels,Detroit Tigers,BetOnline.ag
+Detroit Tigers,170,,Los Angeles Angels,Detroit Tigers,BetUS
+Los Angeles Angels,-200,,Los Angeles Angels,Detroit Tigers,BetUS
+Detroit Tigers,175,,Los Angeles Angels,Detroit Tigers,FOX Bet
+Los Angeles Angels,-213,,Los Angeles Angels,Detroit Tigers,FOX Bet
+Detroit Tigers,165,,Los Angeles Angels,Detroit Tigers,Bovada
+Los Angeles Angels,-200,,Los Angeles Angels,Detroit Tigers,Bovada
+Detroit Tigers,180,,Los Angeles Angels,Detroit Tigers,WynnBET
+Los Angeles Angels,-200,,Los Angeles Angels,Detroit Tigers,WynnBET
+Detroit Tigers,178,,Los Angeles Angels,Detroit Tigers,GTbets
+Los Angeles Angels,-198,,Los Angeles Angels,Detroit Tigers,GTbets
+Detroit Tigers,163,,Los Angeles Angels,Detroit Tigers,Circa Sports
+Los Angeles Angels,-197,,Los Angeles Angels,Detroit Tigers,Circa Sports
+Detroit Tigers,165,,Los Angeles Angels,Detroit Tigers,BetMGM
+Los Angeles Angels,-200,,Los Angeles Angels,Detroit Tigers,BetMGM
+Detroit Tigers,180,,Los Angeles Angels,Detroit Tigers,SuperBook
+Los Angeles Angels,-200,,Los Angeles Angels,Detroit Tigers,SuperBook
+Detroit Tigers,190,,Los Angeles Angels,Detroit Tigers,Unibet
+Los Angeles Angels,-233,,Los Angeles Angels,Detroit Tigers,Unibet
+Detroit Tigers,190,,Los Angeles Angels,Detroit Tigers,TwinSpires
+Los Angeles Angels,-235,,Los Angeles Angels,Detroit Tigers,TwinSpires
+Detroit Tigers,195,,Los Angeles Angels,Detroit Tigers,SugarHouse
+Los Angeles Angels,-225,,Los Angeles Angels,Detroit Tigers,SugarHouse
+Detroit Tigers,190,,Los Angeles Angels,Detroit Tigers,Barstool Sportsbook
+Los Angeles Angels,-230,,Los Angeles Angels,Detroit Tigers,Barstool Sportsbook
+Detroit Tigers,195,,Los Angeles Angels,Detroit Tigers,BetRivers
+Los Angeles Angels,-225,,Los Angeles Angels,Detroit Tigers,BetRivers
+Detroit Tigers,175,,Los Angeles Angels,Detroit Tigers,Intertops
+Los Angeles Angels,-200,,Los Angeles Angels,Detroit Tigers,Intertops
+Detroit Tigers,184,,Los Angeles Angels,Detroit Tigers,Betfair
+Los Angeles Angels,-192,,Los Angeles Angels,Detroit Tigers,Betfair
+Detroit Tigers,190,,Los Angeles Angels,Detroit Tigers,Betfair
+Los Angeles Angels,-185,,Los Angeles Angels,Detroit Tigers,Betfair
+Chicago White Sox,168,,Seattle Mariners,Chicago White Sox,FanDuel
+Seattle Mariners,-200,,Seattle Mariners,Chicago White Sox,FanDuel
+Chicago White Sox,171,,Seattle Mariners,Chicago White Sox,Circa Sports
+Seattle Mariners,-205,,Seattle Mariners,Chicago White Sox,Circa Sports
+Chicago White Sox,163,,Seattle Mariners,Chicago White Sox,FOX Bet
+Seattle Mariners,-200,,Seattle Mariners,Chicago White Sox,FOX Bet
+Chicago White Sox,162,,Seattle Mariners,Chicago White Sox,William Hill (US)
+Seattle Mariners,-195,,Seattle Mariners,Chicago White Sox,William Hill (US)
+Chicago White Sox,171,,Seattle Mariners,Chicago White Sox,SuperBook
+Seattle Mariners,-186,,Seattle Mariners,Chicago White Sox,SuperBook
+Chicago White Sox,160,,Seattle Mariners,Chicago White Sox,Bovada
+Seattle Mariners,-195,,Seattle Mariners,Chicago White Sox,Bovada
+Chicago White Sox,174,,Seattle Mariners,Chicago White Sox,LowVig.ag
+Seattle Mariners,-189,,Seattle Mariners,Chicago White Sox,LowVig.ag
+Chicago White Sox,174,,Seattle Mariners,Chicago White Sox,BetOnline.ag
+Seattle Mariners,-192,,Seattle Mariners,Chicago White Sox,BetOnline.ag
+Chicago White Sox,178,,Seattle Mariners,Chicago White Sox,Betfair
+Seattle Mariners,-185,,Seattle Mariners,Chicago White Sox,Betfair
+Chicago White Sox,184,,Seattle Mariners,Chicago White Sox,Betfair
+Seattle Mariners,-179,,Seattle Mariners,Chicago White Sox,Betfair
+Chicago White Sox,170,,Seattle Mariners,Chicago White Sox,BetRivers
+Seattle Mariners,-200,,Seattle Mariners,Chicago White Sox,BetRivers
+Chicago White Sox,170,,Seattle Mariners,Chicago White Sox,SugarHouse
+Seattle Mariners,-200,,Seattle Mariners,Chicago White Sox,SugarHouse
+Chicago White Sox,170,,Seattle Mariners,Chicago White Sox,Barstool Sportsbook
+Seattle Mariners,-200,,Seattle Mariners,Chicago White Sox,Barstool Sportsbook
+Chicago White Sox,165,,Seattle Mariners,Chicago White Sox,TwinSpires
+Seattle Mariners,-200,,Seattle Mariners,Chicago White Sox,TwinSpires
+Chicago White Sox,165,,Seattle Mariners,Chicago White Sox,Unibet
+Seattle Mariners,-200,,Seattle Mariners,Chicago White Sox,Unibet
+Chicago White Sox,169,,Seattle Mariners,Chicago White Sox,GTbets
+Seattle Mariners,-189,,Seattle Mariners,Chicago White Sox,GTbets
+Chicago White Sox,165,,Seattle Mariners,Chicago White Sox,DraftKings
+Seattle Mariners,-195,,Seattle Mariners,Chicago White Sox,DraftKings
+Chicago White Sox,170,,Seattle Mariners,Chicago White Sox,WynnBET
+Seattle Mariners,-185,,Seattle Mariners,Chicago White Sox,WynnBET
+Chicago White Sox,165,,Seattle Mariners,Chicago White Sox,BetMGM
+Seattle Mariners,-200,,Seattle Mariners,Chicago White Sox,BetMGM
+Chicago White Sox,170,,Seattle Mariners,Chicago White Sox,BetUS
+Seattle Mariners,-200,,Seattle Mariners,Chicago White Sox,BetUS
+Chicago White Sox,170,,Seattle Mariners,Chicago White Sox,Intertops
+Seattle Mariners,-190,,Seattle Mariners,Chicago White Sox,Intertops
+Los Angeles Dodgers,-234,,Los Angeles Dodgers,San Francisco Giants,LowVig.ag
+San Francisco Giants,211,,Los Angeles Dodgers,San Francisco Giants,LowVig.ag
+Los Angeles Dodgers,-255,,Los Angeles Dodgers,San Francisco Giants,FanDuel
+San Francisco Giants,210,,Los Angeles Dodgers,San Francisco Giants,FanDuel
+Los Angeles Dodgers,-238,,Los Angeles Dodgers,San Francisco Giants,BetOnline.ag
+San Francisco Giants,211,,Los Angeles Dodgers,San Francisco Giants,BetOnline.ag
+Los Angeles Dodgers,-245,,Los Angeles Dodgers,San Francisco Giants,DraftKings
+San Francisco Giants,205,,Los Angeles Dodgers,San Francisco Giants,DraftKings
+Los Angeles Dodgers,-250,,Los Angeles Dodgers,San Francisco Giants,William Hill (US)
+San Francisco Giants,205,,Los Angeles Dodgers,San Francisco Giants,William Hill (US)
+Los Angeles Dodgers,-278,,Los Angeles Dodgers,San Francisco Giants,FOX Bet
+San Francisco Giants,200,,Los Angeles Dodgers,San Francisco Giants,FOX Bet
+Los Angeles Dodgers,-235,,Los Angeles Dodgers,San Francisco Giants,BetUS
+San Francisco Giants,195,,Los Angeles Dodgers,San Francisco Giants,BetUS
+Los Angeles Dodgers,-238,,Los Angeles Dodgers,San Francisco Giants,WynnBET
+San Francisco Giants,215,,Los Angeles Dodgers,San Francisco Giants,WynnBET
+Los Angeles Dodgers,-234,,Los Angeles Dodgers,San Francisco Giants,GTbets
+San Francisco Giants,204,,Los Angeles Dodgers,San Francisco Giants,GTbets
+Los Angeles Dodgers,-278,,Los Angeles Dodgers,San Francisco Giants,Circa Sports
+San Francisco Giants,228,,Los Angeles Dodgers,San Francisco Giants,Circa Sports
+Los Angeles Dodgers,-250,,Los Angeles Dodgers,San Francisco Giants,BetMGM
+San Francisco Giants,200,,Los Angeles Dodgers,San Francisco Giants,BetMGM
+Los Angeles Dodgers,-230,,Los Angeles Dodgers,San Francisco Giants,SuperBook
+San Francisco Giants,205,,Los Angeles Dodgers,San Francisco Giants,SuperBook
+Los Angeles Dodgers,-278,,Los Angeles Dodgers,San Francisco Giants,Unibet
+San Francisco Giants,220,,Los Angeles Dodgers,San Francisco Giants,Unibet
+Los Angeles Dodgers,-278,,Los Angeles Dodgers,San Francisco Giants,TwinSpires
+San Francisco Giants,220,,Los Angeles Dodgers,San Francisco Giants,TwinSpires
+Los Angeles Dodgers,-275,,Los Angeles Dodgers,San Francisco Giants,SugarHouse
+San Francisco Giants,220,,Los Angeles Dodgers,San Francisco Giants,SugarHouse
+Los Angeles Dodgers,-278,,Los Angeles Dodgers,San Francisco Giants,Barstool Sportsbook
+San Francisco Giants,220,,Los Angeles Dodgers,San Francisco Giants,Barstool Sportsbook
+Los Angeles Dodgers,-275,,Los Angeles Dodgers,San Francisco Giants,BetRivers
+San Francisco Giants,220,,Los Angeles Dodgers,San Francisco Giants,BetRivers
+Los Angeles Dodgers,-233,,Los Angeles Dodgers,San Francisco Giants,Betfair
+San Francisco Giants,220,,Los Angeles Dodgers,San Francisco Giants,Betfair
+Los Angeles Dodgers,-222,,Los Angeles Dodgers,San Francisco Giants,Betfair
+San Francisco Giants,230,,Los Angeles Dodgers,San Francisco Giants,Betfair
+Los Angeles Dodgers,-250,,Los Angeles Dodgers,San Francisco Giants,Bovada
+San Francisco Giants,205,,Los Angeles Dodgers,San Francisco Giants,Bovada
+New York Mets,-370,,Pittsburgh Pirates,New York Mets,Unibet
+Pittsburgh Pirates,290,,Pittsburgh Pirates,New York Mets,Unibet
+New York Mets,-375,,Pittsburgh Pirates,New York Mets,BetMGM
+Pittsburgh Pirates,300,,Pittsburgh Pirates,New York Mets,BetMGM
+New York Mets,-385,,Pittsburgh Pirates,New York Mets,William Hill (US)
+Pittsburgh Pirates,300,,Pittsburgh Pirates,New York Mets,William Hill (US)
+New York Mets,-375,,Pittsburgh Pirates,New York Mets,SugarHouse
+Pittsburgh Pirates,300,,Pittsburgh Pirates,New York Mets,SugarHouse
+New York Mets,-375,,Pittsburgh Pirates,New York Mets,Barstool Sportsbook
+Pittsburgh Pirates,300,,Pittsburgh Pirates,New York Mets,Barstool Sportsbook
+New York Mets,-370,,Pittsburgh Pirates,New York Mets,SuperBook
+Pittsburgh Pirates,315,,Pittsburgh Pirates,New York Mets,SuperBook
+New York Mets,-375,,Pittsburgh Pirates,New York Mets,BetRivers
+Pittsburgh Pirates,300,,Pittsburgh Pirates,New York Mets,BetRivers
+New York Mets,-375,,Pittsburgh Pirates,New York Mets,TwinSpires
+Pittsburgh Pirates,290,,Pittsburgh Pirates,New York Mets,TwinSpires
+New York Mets,-400,,Pittsburgh Pirates,New York Mets,FOX Bet
+Pittsburgh Pirates,300,,Pittsburgh Pirates,New York Mets,FOX Bet
+New York Mets,-365,,Pittsburgh Pirates,New York Mets,DraftKings
+Pittsburgh Pirates,300,,Pittsburgh Pirates,New York Mets,DraftKings
+New York Mets,-400,,Pittsburgh Pirates,New York Mets,FanDuel
+Pittsburgh Pirates,315,,Pittsburgh Pirates,New York Mets,FanDuel
+New York Mets,-370,,Pittsburgh Pirates,New York Mets,Bovada
+Pittsburgh Pirates,285,,Pittsburgh Pirates,New York Mets,Bovada
+New York Mets,-360,,Pittsburgh Pirates,New York Mets,LowVig.ag
+Pittsburgh Pirates,319,,Pittsburgh Pirates,New York Mets,LowVig.ag
+New York Mets,-370,,Pittsburgh Pirates,New York Mets,BetOnline.ag
+Pittsburgh Pirates,319,,Pittsburgh Pirates,New York Mets,BetOnline.ag
+New York Mets,-360,,Pittsburgh Pirates,New York Mets,Intertops
+Pittsburgh Pirates,280,,Pittsburgh Pirates,New York Mets,Intertops
+New York Mets,-370,,Pittsburgh Pirates,New York Mets,Betfair
+Pittsburgh Pirates,320,,Pittsburgh Pirates,New York Mets,Betfair
+New York Mets,-312,,Pittsburgh Pirates,New York Mets,Betfair
+Pittsburgh Pirates,380,,Pittsburgh Pirates,New York Mets,Betfair
+Boston Red Sox,145,,Tampa Bay Rays,Boston Red Sox,DraftKings
+Tampa Bay Rays,-170,,Tampa Bay Rays,Boston Red Sox,DraftKings
+Boston Red Sox,144,,Tampa Bay Rays,Boston Red Sox,FanDuel
+Tampa Bay Rays,-172,,Tampa Bay Rays,Boston Red Sox,FanDuel
+Boston Red Sox,143,,Tampa Bay Rays,Boston Red Sox,William Hill (US)
+Tampa Bay Rays,-170,,Tampa Bay Rays,Boston Red Sox,William Hill (US)
+Boston Red Sox,145,,Tampa Bay Rays,Boston Red Sox,FOX Bet
+Tampa Bay Rays,-175,,Tampa Bay Rays,Boston Red Sox,FOX Bet
+Boston Red Sox,141,,Tampa Bay Rays,Boston Red Sox,Circa Sports
+Tampa Bay Rays,-167,,Tampa Bay Rays,Boston Red Sox,Circa Sports
+Boston Red Sox,152,,Tampa Bay Rays,Boston Red Sox,SuperBook
+Tampa Bay Rays,-162,,Tampa Bay Rays,Boston Red Sox,SuperBook
+Boston Red Sox,140,,Tampa Bay Rays,Boston Red Sox,Bovada
+Tampa Bay Rays,-168,,Tampa Bay Rays,Boston Red Sox,Bovada
+Boston Red Sox,140,,Tampa Bay Rays,Boston Red Sox,BetMGM
+Tampa Bay Rays,-165,,Tampa Bay Rays,Boston Red Sox,BetMGM
+Boston Red Sox,152,,Tampa Bay Rays,Boston Red Sox,BetOnline.ag
+Tampa Bay Rays,-167,,Tampa Bay Rays,Boston Red Sox,BetOnline.ag
+Boston Red Sox,152,,Tampa Bay Rays,Boston Red Sox,LowVig.ag
+Tampa Bay Rays,-165,,Tampa Bay Rays,Boston Red Sox,LowVig.ag
+Boston Red Sox,143,,Tampa Bay Rays,Boston Red Sox,Unibet
+Tampa Bay Rays,-172,,Tampa Bay Rays,Boston Red Sox,Unibet
+Boston Red Sox,154,,Tampa Bay Rays,Boston Red Sox,Betfair
+Tampa Bay Rays,-161,,Tampa Bay Rays,Boston Red Sox,Betfair
+Boston Red Sox,160,,Tampa Bay Rays,Boston Red Sox,Betfair
+Tampa Bay Rays,-154,,Tampa Bay Rays,Boston Red Sox,Betfair
+Boston Red Sox,148,,Tampa Bay Rays,Boston Red Sox,BetRivers
+Tampa Bay Rays,-167,,Tampa Bay Rays,Boston Red Sox,BetRivers
+Boston Red Sox,148,,Tampa Bay Rays,Boston Red Sox,SugarHouse
+Tampa Bay Rays,-167,,Tampa Bay Rays,Boston Red Sox,SugarHouse
+Boston Red Sox,145,,Tampa Bay Rays,Boston Red Sox,Barstool Sportsbook
+Tampa Bay Rays,-167,,Tampa Bay Rays,Boston Red Sox,Barstool Sportsbook
+Boston Red Sox,143,,Tampa Bay Rays,Boston Red Sox,TwinSpires
+Tampa Bay Rays,-175,,Tampa Bay Rays,Boston Red Sox,TwinSpires
+Boston Red Sox,150,,Tampa Bay Rays,Boston Red Sox,GTbets
+Tampa Bay Rays,-165,,Tampa Bay Rays,Boston Red Sox,GTbets
+Boston Red Sox,155,,Tampa Bay Rays,Boston Red Sox,WynnBET
+Tampa Bay Rays,-169,,Tampa Bay Rays,Boston Red Sox,WynnBET
+Boston Red Sox,145,,Tampa Bay Rays,Boston Red Sox,BetUS
+Tampa Bay Rays,-165,,Tampa Bay Rays,Boston Red Sox,BetUS
+Boston Red Sox,150,,Tampa Bay Rays,Boston Red Sox,Intertops
+Tampa Bay Rays,-165,,Tampa Bay Rays,Boston Red Sox,Intertops
+Miami Marlins,143,,Philadelphia Phillies,Miami Marlins,LowVig.ag
+Philadelphia Phillies,-155,,Philadelphia Phillies,Miami Marlins,LowVig.ag
+Miami Marlins,140,,Philadelphia Phillies,Miami Marlins,DraftKings
+Philadelphia Phillies,-165,,Philadelphia Phillies,Miami Marlins,DraftKings
+Miami Marlins,140,,Philadelphia Phillies,Miami Marlins,William Hill (US)
+Philadelphia Phillies,-165,,Philadelphia Phillies,Miami Marlins,William Hill (US)
+Miami Marlins,138,,Philadelphia Phillies,Miami Marlins,FanDuel
+Philadelphia Phillies,-164,,Philadelphia Phillies,Miami Marlins,FanDuel
+Miami Marlins,143,,Philadelphia Phillies,Miami Marlins,BetOnline.ag
+Philadelphia Phillies,-156,,Philadelphia Phillies,Miami Marlins,BetOnline.ag
+Miami Marlins,140,,Philadelphia Phillies,Miami Marlins,BetUS
+Philadelphia Phillies,-155,,Philadelphia Phillies,Miami Marlins,BetUS
+Miami Marlins,145,,Philadelphia Phillies,Miami Marlins,FOX Bet
+Philadelphia Phillies,-175,,Philadelphia Phillies,Miami Marlins,FOX Bet
+Miami Marlins,134,,Philadelphia Phillies,Miami Marlins,Bovada
+Philadelphia Phillies,-160,,Philadelphia Phillies,Miami Marlins,Bovada
+Miami Marlins,150,,Philadelphia Phillies,Miami Marlins,WynnBET
+Philadelphia Phillies,-159,,Philadelphia Phillies,Miami Marlins,WynnBET
+Miami Marlins,143,,Philadelphia Phillies,Miami Marlins,GTbets
+Philadelphia Phillies,-155,,Philadelphia Phillies,Miami Marlins,GTbets
+Miami Marlins,138,,Philadelphia Phillies,Miami Marlins,Circa Sports
+Philadelphia Phillies,-164,,Philadelphia Phillies,Miami Marlins,Circa Sports
+Miami Marlins,135,,Philadelphia Phillies,Miami Marlins,BetMGM
+Philadelphia Phillies,-160,,Philadelphia Phillies,Miami Marlins,BetMGM
+Miami Marlins,148,,Philadelphia Phillies,Miami Marlins,SuperBook
+Philadelphia Phillies,-158,,Philadelphia Phillies,Miami Marlins,SuperBook
+Miami Marlins,145,,Philadelphia Phillies,Miami Marlins,Unibet
+Philadelphia Phillies,-172,,Philadelphia Phillies,Miami Marlins,Unibet
+Miami Marlins,145,,Philadelphia Phillies,Miami Marlins,TwinSpires
+Philadelphia Phillies,-175,,Philadelphia Phillies,Miami Marlins,TwinSpires
+Miami Marlins,150,,Philadelphia Phillies,Miami Marlins,SugarHouse
+Philadelphia Phillies,-175,,Philadelphia Phillies,Miami Marlins,SugarHouse
+Miami Marlins,148,,Philadelphia Phillies,Miami Marlins,Barstool Sportsbook
+Philadelphia Phillies,-175,,Philadelphia Phillies,Miami Marlins,Barstool Sportsbook
+Miami Marlins,150,,Philadelphia Phillies,Miami Marlins,BetRivers
+Philadelphia Phillies,-175,,Philadelphia Phillies,Miami Marlins,BetRivers
+Miami Marlins,140,,Philadelphia Phillies,Miami Marlins,Intertops
+Philadelphia Phillies,-155,,Philadelphia Phillies,Miami Marlins,Intertops
+Miami Marlins,150,,Philadelphia Phillies,Miami Marlins,Betfair
+Philadelphia Phillies,-156,,Philadelphia Phillies,Miami Marlins,Betfair
+Miami Marlins,156,,Philadelphia Phillies,Miami Marlins,Betfair
+Philadelphia Phillies,-152,,Philadelphia Phillies,Miami Marlins,Betfair
+Baltimore Orioles,128,,Baltimore Orioles,Toronto Blue Jays,LowVig.ag
+Toronto Blue Jays,-138,,Baltimore Orioles,Toronto Blue Jays,LowVig.ag
+Baltimore Orioles,120,,Baltimore Orioles,Toronto Blue Jays,DraftKings
+Toronto Blue Jays,-140,,Baltimore Orioles,Toronto Blue Jays,DraftKings
+Baltimore Orioles,118,,Baltimore Orioles,Toronto Blue Jays,William Hill (US)
+Toronto Blue Jays,-140,,Baltimore Orioles,Toronto Blue Jays,William Hill (US)
+Baltimore Orioles,127,,Baltimore Orioles,Toronto Blue Jays,BetOnline.ag
+Toronto Blue Jays,-139,,Baltimore Orioles,Toronto Blue Jays,BetOnline.ag
+Baltimore Orioles,122,,Baltimore Orioles,Toronto Blue Jays,FanDuel
+Toronto Blue Jays,-144,,Baltimore Orioles,Toronto Blue Jays,FanDuel
+Baltimore Orioles,125,,Baltimore Orioles,Toronto Blue Jays,FOX Bet
+Toronto Blue Jays,-149,,Baltimore Orioles,Toronto Blue Jays,FOX Bet
+Baltimore Orioles,125,,Baltimore Orioles,Toronto Blue Jays,BetUS
+Toronto Blue Jays,-140,,Baltimore Orioles,Toronto Blue Jays,BetUS
+Baltimore Orioles,122,,Baltimore Orioles,Toronto Blue Jays,Bovada
+Toronto Blue Jays,-145,,Baltimore Orioles,Toronto Blue Jays,Bovada
+Baltimore Orioles,125,,Baltimore Orioles,Toronto Blue Jays,WynnBET
+Toronto Blue Jays,-135,,Baltimore Orioles,Toronto Blue Jays,WynnBET
+Baltimore Orioles,128,,Baltimore Orioles,Toronto Blue Jays,GTbets
+Toronto Blue Jays,-138,,Baltimore Orioles,Toronto Blue Jays,GTbets
+Baltimore Orioles,122,,Baltimore Orioles,Toronto Blue Jays,Circa Sports
+Toronto Blue Jays,-145,,Baltimore Orioles,Toronto Blue Jays,Circa Sports
+Baltimore Orioles,120,,Baltimore Orioles,Toronto Blue Jays,BetMGM
+Toronto Blue Jays,-145,,Baltimore Orioles,Toronto Blue Jays,BetMGM
+Baltimore Orioles,128,,Baltimore Orioles,Toronto Blue Jays,SuperBook
+Toronto Blue Jays,-138,,Baltimore Orioles,Toronto Blue Jays,SuperBook
+Baltimore Orioles,118,,Baltimore Orioles,Toronto Blue Jays,Unibet
+Toronto Blue Jays,-141,,Baltimore Orioles,Toronto Blue Jays,Unibet
+Baltimore Orioles,118,,Baltimore Orioles,Toronto Blue Jays,TwinSpires
+Toronto Blue Jays,-141,,Baltimore Orioles,Toronto Blue Jays,TwinSpires
+Baltimore Orioles,118,,Baltimore Orioles,Toronto Blue Jays,SugarHouse
+Toronto Blue Jays,-141,,Baltimore Orioles,Toronto Blue Jays,SugarHouse
+Baltimore Orioles,118,,Baltimore Orioles,Toronto Blue Jays,Barstool Sportsbook
+Toronto Blue Jays,-141,,Baltimore Orioles,Toronto Blue Jays,Barstool Sportsbook
+Baltimore Orioles,118,,Baltimore Orioles,Toronto Blue Jays,BetRivers
+Toronto Blue Jays,-141,,Baltimore Orioles,Toronto Blue Jays,BetRivers
+Baltimore Orioles,123,,Baltimore Orioles,Toronto Blue Jays,Intertops
+Toronto Blue Jays,-133,,Baltimore Orioles,Toronto Blue Jays,Intertops
+Baltimore Orioles,128,,Baltimore Orioles,Toronto Blue Jays,Betfair
+Toronto Blue Jays,-132,,Baltimore Orioles,Toronto Blue Jays,Betfair
+Baltimore Orioles,130,,Baltimore Orioles,Toronto Blue Jays,Betfair
+Toronto Blue Jays,-127,,Baltimore Orioles,Toronto Blue Jays,Betfair
+Baltimore Orioles,122,,Baltimore Orioles,Toronto Blue Jays,MyBookie.ag
+Toronto Blue Jays,-142,,Baltimore Orioles,Toronto Blue Jays,MyBookie.ag
+Minnesota Twins,168,,New York Yankees,Minnesota Twins,FanDuel
+New York Yankees,-200,,New York Yankees,Minnesota Twins,FanDuel
+Minnesota Twins,170,,New York Yankees,Minnesota Twins,William Hill (US)
+New York Yankees,-205,,New York Yankees,Minnesota Twins,William Hill (US)
+Minnesota Twins,160,,New York Yankees,Minnesota Twins,Circa Sports
+New York Yankees,-193,,New York Yankees,Minnesota Twins,Circa Sports
+Minnesota Twins,175,,New York Yankees,Minnesota Twins,SuperBook
+New York Yankees,-190,,New York Yankees,Minnesota Twins,SuperBook
+Minnesota Twins,170,,New York Yankees,Minnesota Twins,BetRivers
+New York Yankees,-200,,New York Yankees,Minnesota Twins,BetRivers
+Minnesota Twins,170,,New York Yankees,Minnesota Twins,SugarHouse
+New York Yankees,-200,,New York Yankees,Minnesota Twins,SugarHouse
+Minnesota Twins,170,,New York Yankees,Minnesota Twins,Barstool Sportsbook
+New York Yankees,-200,,New York Yankees,Minnesota Twins,Barstool Sportsbook
+Minnesota Twins,165,,New York Yankees,Minnesota Twins,TwinSpires
+New York Yankees,-200,,New York Yankees,Minnesota Twins,TwinSpires
+Minnesota Twins,165,,New York Yankees,Minnesota Twins,Unibet
+New York Yankees,-200,,New York Yankees,Minnesota Twins,Unibet
+Minnesota Twins,178,,New York Yankees,Minnesota Twins,Betfair
+New York Yankees,-185,,New York Yankees,Minnesota Twins,Betfair
+Minnesota Twins,186,,New York Yankees,Minnesota Twins,Betfair
+New York Yankees,-179,,New York Yankees,Minnesota Twins,Betfair
+Minnesota Twins,165,,New York Yankees,Minnesota Twins,DraftKings
+New York Yankees,-195,,New York Yankees,Minnesota Twins,DraftKings
+Minnesota Twins,165,,New York Yankees,Minnesota Twins,Bovada
+New York Yankees,-200,,New York Yankees,Minnesota Twins,Bovada
+Minnesota Twins,173,,New York Yankees,Minnesota Twins,BetOnline.ag
+New York Yankees,-189,,New York Yankees,Minnesota Twins,BetOnline.ag
+Minnesota Twins,168,,New York Yankees,Minnesota Twins,GTbets
+New York Yankees,-188,,New York Yankees,Minnesota Twins,GTbets
+Minnesota Twins,173,,New York Yankees,Minnesota Twins,LowVig.ag
+New York Yankees,-188,,New York Yankees,Minnesota Twins,LowVig.ag
+Minnesota Twins,165,,New York Yankees,Minnesota Twins,BetMGM
+New York Yankees,-200,,New York Yankees,Minnesota Twins,BetMGM
+Minnesota Twins,170,,New York Yankees,Minnesota Twins,BetUS
+New York Yankees,-200,,New York Yankees,Minnesota Twins,BetUS
+Chicago Cubs,-145,,Chicago Cubs,Cincinnati Reds,DraftKings
+Cincinnati Reds,125,,Chicago Cubs,Cincinnati Reds,DraftKings
+Chicago Cubs,-148,,Chicago Cubs,Cincinnati Reds,FanDuel
+Cincinnati Reds,126,,Chicago Cubs,Cincinnati Reds,FanDuel
+Chicago Cubs,-145,,Chicago Cubs,Cincinnati Reds,William Hill (US)
+Cincinnati Reds,122,,Chicago Cubs,Cincinnati Reds,William Hill (US)
+Chicago Cubs,-139,,Chicago Cubs,Cincinnati Reds,Circa Sports
+Cincinnati Reds,117,,Chicago Cubs,Cincinnati Reds,Circa Sports
+Chicago Cubs,-149,,Chicago Cubs,Cincinnati Reds,FOX Bet
+Cincinnati Reds,125,,Chicago Cubs,Cincinnati Reds,FOX Bet
+Chicago Cubs,-140,,Chicago Cubs,Cincinnati Reds,SuperBook
+Cincinnati Reds,130,,Chicago Cubs,Cincinnati Reds,SuperBook
+Chicago Cubs,-143,,Chicago Cubs,Cincinnati Reds,BetRivers
+Cincinnati Reds,125,,Chicago Cubs,Cincinnati Reds,BetRivers
+Chicago Cubs,-143,,Chicago Cubs,Cincinnati Reds,SugarHouse
+Cincinnati Reds,125,,Chicago Cubs,Cincinnati Reds,SugarHouse
+Chicago Cubs,-147,,Chicago Cubs,Cincinnati Reds,Unibet
+Cincinnati Reds,123,,Chicago Cubs,Cincinnati Reds,Unibet
+Chicago Cubs,-143,,Chicago Cubs,Cincinnati Reds,Barstool Sportsbook
+Cincinnati Reds,125,,Chicago Cubs,Cincinnati Reds,Barstool Sportsbook
+Chicago Cubs,-148,,Chicago Cubs,Cincinnati Reds,TwinSpires
+Cincinnati Reds,123,,Chicago Cubs,Cincinnati Reds,TwinSpires
+Chicago Cubs,-133,,Chicago Cubs,Cincinnati Reds,Betfair
+Cincinnati Reds,130,,Chicago Cubs,Cincinnati Reds,Betfair
+Chicago Cubs,-132,,Chicago Cubs,Cincinnati Reds,Betfair
+Cincinnati Reds,134,,Chicago Cubs,Cincinnati Reds,Betfair
+Chicago Cubs,-141,,Chicago Cubs,Cincinnati Reds,LowVig.ag
+Cincinnati Reds,130,,Chicago Cubs,Cincinnati Reds,LowVig.ag
+Chicago Cubs,-143,,Chicago Cubs,Cincinnati Reds,BetOnline.ag
+Cincinnati Reds,129,,Chicago Cubs,Cincinnati Reds,BetOnline.ag
+Chicago Cubs,-141,,Chicago Cubs,Cincinnati Reds,GTbets
+Cincinnati Reds,129,,Chicago Cubs,Cincinnati Reds,GTbets
+Chicago Cubs,-141,,Chicago Cubs,Cincinnati Reds,WynnBET
+Cincinnati Reds,130,,Chicago Cubs,Cincinnati Reds,WynnBET
+Chicago Cubs,-148,,Chicago Cubs,Cincinnati Reds,Bovada
+Cincinnati Reds,124,,Chicago Cubs,Cincinnati Reds,Bovada
+Chicago Cubs,-140,,Chicago Cubs,Cincinnati Reds,BetUS
+Cincinnati Reds,125,,Chicago Cubs,Cincinnati Reds,BetUS
+Chicago Cubs,-140,,Chicago Cubs,Cincinnati Reds,Intertops
+Cincinnati Reds,130,,Chicago Cubs,Cincinnati Reds,Intertops
+Chicago Cubs,-145,,Chicago Cubs,Cincinnati Reds,BetMGM
+Cincinnati Reds,120,,Chicago Cubs,Cincinnati Reds,BetMGM
+St. Louis Cardinals,-295,,St. Louis Cardinals,Washington Nationals,DraftKings
+Washington Nationals,245,,St. Louis Cardinals,Washington Nationals,DraftKings
+St. Louis Cardinals,-310,,St. Louis Cardinals,Washington Nationals,FanDuel
+Washington Nationals,250,,St. Louis Cardinals,Washington Nationals,FanDuel
+St. Louis Cardinals,-320,,St. Louis Cardinals,Washington Nationals,William Hill (US)
+Washington Nationals,250,,St. Louis Cardinals,Washington Nationals,William Hill (US)
+St. Louis Cardinals,-294,,St. Louis Cardinals,Washington Nationals,BetOnline.ag
+Washington Nationals,255,,St. Louis Cardinals,Washington Nationals,BetOnline.ag
+St. Louis Cardinals,-287,,St. Louis Cardinals,Washington Nationals,LowVig.ag
+Washington Nationals,255,,St. Louis Cardinals,Washington Nationals,LowVig.ag
+St. Louis Cardinals,-333,,St. Louis Cardinals,Washington Nationals,FOX Bet
+Washington Nationals,260,,St. Louis Cardinals,Washington Nationals,FOX Bet
+St. Louis Cardinals,-300,,St. Louis Cardinals,Washington Nationals,BetUS
+Washington Nationals,240,,St. Louis Cardinals,Washington Nationals,BetUS
+St. Louis Cardinals,-310,,St. Louis Cardinals,Washington Nationals,Bovada
+Washington Nationals,250,,St. Louis Cardinals,Washington Nationals,Bovada
+St. Louis Cardinals,-303,,St. Louis Cardinals,Washington Nationals,WynnBET
+Washington Nationals,260,,St. Louis Cardinals,Washington Nationals,WynnBET
+St. Louis Cardinals,-287,,St. Louis Cardinals,Washington Nationals,GTbets
+Washington Nationals,247,,St. Louis Cardinals,Washington Nationals,GTbets
+St. Louis Cardinals,-295,,St. Louis Cardinals,Washington Nationals,Circa Sports
+Washington Nationals,240,,St. Louis Cardinals,Washington Nationals,Circa Sports
+St. Louis Cardinals,-300,,St. Louis Cardinals,Washington Nationals,BetMGM
+Washington Nationals,240,,St. Louis Cardinals,Washington Nationals,BetMGM
+St. Louis Cardinals,-300,,St. Louis Cardinals,Washington Nationals,SuperBook
+Washington Nationals,260,,St. Louis Cardinals,Washington Nationals,SuperBook
+St. Louis Cardinals,-315,,St. Louis Cardinals,Washington Nationals,BetRivers
+Washington Nationals,260,,St. Louis Cardinals,Washington Nationals,BetRivers
+St. Louis Cardinals,-357,,St. Louis Cardinals,Washington Nationals,Unibet
+Washington Nationals,260,,St. Louis Cardinals,Washington Nationals,Unibet
+St. Louis Cardinals,-315,,St. Louis Cardinals,Washington Nationals,SugarHouse
+Washington Nationals,260,,St. Louis Cardinals,Washington Nationals,SugarHouse
+St. Louis Cardinals,-315,,St. Louis Cardinals,Washington Nationals,Barstool Sportsbook
+Washington Nationals,260,,St. Louis Cardinals,Washington Nationals,Barstool Sportsbook
+St. Louis Cardinals,-360,,St. Louis Cardinals,Washington Nationals,TwinSpires
+Washington Nationals,260,,St. Louis Cardinals,Washington Nationals,TwinSpires
+St. Louis Cardinals,-278,,St. Louis Cardinals,Washington Nationals,Betfair
+Washington Nationals,265,,St. Louis Cardinals,Washington Nationals,Betfair
+St. Louis Cardinals,-270,,St. Louis Cardinals,Washington Nationals,Betfair
+Washington Nationals,275,,St. Louis Cardinals,Washington Nationals,Betfair
+Cleveland Guardians,-140,,Kansas City Royals,Cleveland Guardians,DraftKings
+Kansas City Royals,120,,Kansas City Royals,Cleveland Guardians,DraftKings
+Cleveland Guardians,-148,,Kansas City Royals,Cleveland Guardians,FanDuel
+Kansas City Royals,126,,Kansas City Royals,Cleveland Guardians,FanDuel
+Cleveland Guardians,-148,,Kansas City Royals,Cleveland Guardians,Circa Sports
+Kansas City Royals,125,,Kansas City Royals,Cleveland Guardians,Circa Sports
+Cleveland Guardians,-140,,Kansas City Royals,Cleveland Guardians,William Hill (US)
+Kansas City Royals,118,,Kansas City Royals,Cleveland Guardians,William Hill (US)
+Cleveland Guardians,-149,,Kansas City Royals,Cleveland Guardians,FOX Bet
+Kansas City Royals,125,,Kansas City Royals,Cleveland Guardians,FOX Bet
+Cleveland Guardians,-136,,Kansas City Royals,Cleveland Guardians,SuperBook
+Kansas City Royals,126,,Kansas City Royals,Cleveland Guardians,SuperBook
+Cleveland Guardians,-140,,Kansas City Royals,Cleveland Guardians,Bovada
+Kansas City Royals,117,,Kansas City Royals,Cleveland Guardians,Bovada
+Cleveland Guardians,-140,,Kansas City Royals,Cleveland Guardians,BetMGM
+Kansas City Royals,115,,Kansas City Royals,Cleveland Guardians,BetMGM
+Cleveland Guardians,-136,,Kansas City Royals,Cleveland Guardians,LowVig.ag
+Kansas City Royals,126,,Kansas City Royals,Cleveland Guardians,LowVig.ag
+Cleveland Guardians,-137,,Kansas City Royals,Cleveland Guardians,BetOnline.ag
+Kansas City Royals,125,,Kansas City Royals,Cleveland Guardians,BetOnline.ag
+Cleveland Guardians,-139,,Kansas City Royals,Cleveland Guardians,BetRivers
+Kansas City Royals,123,,Kansas City Royals,Cleveland Guardians,BetRivers
+Cleveland Guardians,-139,,Kansas City Royals,Cleveland Guardians,SugarHouse
+Kansas City Royals,123,,Kansas City Royals,Cleveland Guardians,SugarHouse
+Cleveland Guardians,-141,,Kansas City Royals,Cleveland Guardians,Barstool Sportsbook
+Kansas City Royals,120,,Kansas City Royals,Cleveland Guardians,Barstool Sportsbook
+Cleveland Guardians,-143,,Kansas City Royals,Cleveland Guardians,TwinSpires
+Kansas City Royals,120,,Kansas City Royals,Cleveland Guardians,TwinSpires
+Cleveland Guardians,-143,,Kansas City Royals,Cleveland Guardians,Unibet
+Kansas City Royals,120,,Kansas City Royals,Cleveland Guardians,Unibet
+Cleveland Guardians,-133,,Kansas City Royals,Cleveland Guardians,Betfair
+Kansas City Royals,130,,Kansas City Royals,Cleveland Guardians,Betfair
+Cleveland Guardians,-130,,Kansas City Royals,Cleveland Guardians,Betfair
+Kansas City Royals,134,,Kansas City Royals,Cleveland Guardians,Betfair
+Cleveland Guardians,-136,,Kansas City Royals,Cleveland Guardians,GTbets
+Kansas City Royals,126,,Kansas City Royals,Cleveland Guardians,GTbets
+Cleveland Guardians,-139,,Kansas City Royals,Cleveland Guardians,WynnBET
+Kansas City Royals,128,,Kansas City Royals,Cleveland Guardians,WynnBET
+Cleveland Guardians,-140,,Kansas City Royals,Cleveland Guardians,BetUS
+Kansas City Royals,125,,Kansas City Royals,Cleveland Guardians,BetUS
+Houston Astros,-295,,Houston Astros,Texas Rangers,FanDuel
+Texas Rangers,240,,Houston Astros,Texas Rangers,FanDuel
+Houston Astros,-275,,Houston Astros,Texas Rangers,DraftKings
+Texas Rangers,230,,Houston Astros,Texas Rangers,DraftKings
+Houston Astros,-292,,Houston Astros,Texas Rangers,William Hill (US)
+Texas Rangers,235,,Houston Astros,Texas Rangers,William Hill (US)
+Houston Astros,-286,,Houston Astros,Texas Rangers,FOX Bet
+Texas Rangers,225,,Houston Astros,Texas Rangers,FOX Bet
+Houston Astros,-271,,Houston Astros,Texas Rangers,Circa Sports
+Texas Rangers,223,,Houston Astros,Texas Rangers,Circa Sports
+Houston Astros,-280,,Houston Astros,Texas Rangers,SuperBook
+Texas Rangers,245,,Houston Astros,Texas Rangers,SuperBook
+Houston Astros,-290,,Houston Astros,Texas Rangers,Bovada
+Texas Rangers,230,,Houston Astros,Texas Rangers,Bovada
+Houston Astros,-275,,Houston Astros,Texas Rangers,BetMGM
+Texas Rangers,220,,Houston Astros,Texas Rangers,BetMGM
+Houston Astros,-270,,Houston Astros,Texas Rangers,LowVig.ag
+Texas Rangers,241,,Houston Astros,Texas Rangers,LowVig.ag
+Houston Astros,-295,,Houston Astros,Texas Rangers,BetRivers
+Texas Rangers,250,,Houston Astros,Texas Rangers,BetRivers
+Houston Astros,-295,,Houston Astros,Texas Rangers,SugarHouse
+Texas Rangers,250,,Houston Astros,Texas Rangers,SugarHouse
+Houston Astros,-303,,Houston Astros,Texas Rangers,Unibet
+Texas Rangers,245,,Houston Astros,Texas Rangers,Unibet
+Houston Astros,-270,,Houston Astros,Texas Rangers,BetOnline.ag
+Texas Rangers,241,,Houston Astros,Texas Rangers,BetOnline.ag
+Houston Astros,-305,,Houston Astros,Texas Rangers,Barstool Sportsbook
+Texas Rangers,250,,Houston Astros,Texas Rangers,Barstool Sportsbook
+Houston Astros,-305,,Houston Astros,Texas Rangers,TwinSpires
+Texas Rangers,245,,Houston Astros,Texas Rangers,TwinSpires
+Houston Astros,-256,,Houston Astros,Texas Rangers,Betfair
+Texas Rangers,245,,Houston Astros,Texas Rangers,Betfair
+Houston Astros,-244,,Houston Astros,Texas Rangers,Betfair
+Texas Rangers,255,,Houston Astros,Texas Rangers,Betfair
+Houston Astros,-270,,Houston Astros,Texas Rangers,GTbets
+Texas Rangers,230,,Houston Astros,Texas Rangers,GTbets
+Houston Astros,-270,,Houston Astros,Texas Rangers,WynnBET
+Texas Rangers,240,,Houston Astros,Texas Rangers,WynnBET
+Houston Astros,-270,,Houston Astros,Texas Rangers,BetUS
+Texas Rangers,220,,Houston Astros,Texas Rangers,BetUS
+Houston Astros,-270,,Houston Astros,Texas Rangers,Intertops
+Texas Rangers,230,,Houston Astros,Texas Rangers,Intertops
+Arizona Diamondbacks,180,,San Diego Padres,Arizona Diamondbacks,DraftKings
+San Diego Padres,-210,,San Diego Padres,Arizona Diamondbacks,DraftKings
+Arizona Diamondbacks,180,,San Diego Padres,Arizona Diamondbacks,FanDuel
+San Diego Padres,-215,,San Diego Padres,Arizona Diamondbacks,FanDuel
+Arizona Diamondbacks,175,,San Diego Padres,Arizona Diamondbacks,William Hill (US)
+San Diego Padres,-210,,San Diego Padres,Arizona Diamondbacks,William Hill (US)
+Arizona Diamondbacks,184,,San Diego Padres,Arizona Diamondbacks,BetOnline.ag
+San Diego Padres,-204,,San Diego Padres,Arizona Diamondbacks,BetOnline.ag
+Arizona Diamondbacks,184,,San Diego Padres,Arizona Diamondbacks,LowVig.ag
+San Diego Padres,-201,,San Diego Padres,Arizona Diamondbacks,LowVig.ag
+Arizona Diamondbacks,175,,San Diego Padres,Arizona Diamondbacks,FOX Bet
+San Diego Padres,-213,,San Diego Padres,Arizona Diamondbacks,FOX Bet
+Arizona Diamondbacks,170,,San Diego Padres,Arizona Diamondbacks,BetUS
+San Diego Padres,-200,,San Diego Padres,Arizona Diamondbacks,BetUS
+Arizona Diamondbacks,170,,San Diego Padres,Arizona Diamondbacks,Bovada
+San Diego Padres,-210,,San Diego Padres,Arizona Diamondbacks,Bovada
+Arizona Diamondbacks,180,,San Diego Padres,Arizona Diamondbacks,WynnBET
+San Diego Padres,-200,,San Diego Padres,Arizona Diamondbacks,WynnBET
+Arizona Diamondbacks,181,,San Diego Padres,Arizona Diamondbacks,GTbets
+San Diego Padres,-201,,San Diego Padres,Arizona Diamondbacks,GTbets
+Arizona Diamondbacks,190,,San Diego Padres,Arizona Diamondbacks,Circa Sports
+San Diego Padres,-228,,San Diego Padres,Arizona Diamondbacks,Circa Sports
+Arizona Diamondbacks,170,,San Diego Padres,Arizona Diamondbacks,BetMGM
+San Diego Padres,-200,,San Diego Padres,Arizona Diamondbacks,BetMGM
+Arizona Diamondbacks,180,,San Diego Padres,Arizona Diamondbacks,SuperBook
+San Diego Padres,-200,,San Diego Padres,Arizona Diamondbacks,SuperBook
+Arizona Diamondbacks,188,,San Diego Padres,Arizona Diamondbacks,BetRivers
+San Diego Padres,-225,,San Diego Padres,Arizona Diamondbacks,BetRivers
+Arizona Diamondbacks,188,,San Diego Padres,Arizona Diamondbacks,Unibet
+San Diego Padres,-238,,San Diego Padres,Arizona Diamondbacks,Unibet
+Arizona Diamondbacks,188,,San Diego Padres,Arizona Diamondbacks,SugarHouse
+San Diego Padres,-225,,San Diego Padres,Arizona Diamondbacks,SugarHouse
+Arizona Diamondbacks,188,,San Diego Padres,Arizona Diamondbacks,Barstool Sportsbook
+San Diego Padres,-225,,San Diego Padres,Arizona Diamondbacks,Barstool Sportsbook
+Arizona Diamondbacks,188,,San Diego Padres,Arizona Diamondbacks,TwinSpires
+San Diego Padres,-240,,San Diego Padres,Arizona Diamondbacks,TwinSpires
+Arizona Diamondbacks,190,,San Diego Padres,Arizona Diamondbacks,Betfair
+San Diego Padres,-196,,San Diego Padres,Arizona Diamondbacks,Betfair
+Arizona Diamondbacks,194,,San Diego Padres,Arizona Diamondbacks,Betfair
+San Diego Padres,-189,,San Diego Padres,Arizona Diamondbacks,Betfair
